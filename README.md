@@ -10,6 +10,8 @@
 ></a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllinFeh&theme=dracula&Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div style="display: inline_block"><br>
   
 <h3 align="left">Linguagens e Ferramentas:</h3>
