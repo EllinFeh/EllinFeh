@@ -1,5 +1,6 @@
 <h1 align="center">Seja bem vindo ao meu perfil!</h1>
-<h3 align="center">Atualmente cursando TSI | Tecnologia em sistemas para internet</h3>
+<h3 align="center">Cursando TSI | Tecnologia em sistemas para internet</h3>
+<h4 align="center">1/6</h4>
 
 
 <h3 align="left">Contate-me:</h3>
