@@ -1,5 +1,5 @@
 <h1 align="center">Seja bem vindo ao meu perfil!</h1>
-<h3 align="center"> TSI | Tecnologia em sistemas para internet 1/6 🎓</h3>
+<h3 align="center"> TSI | Tecnologia em sistemas para internet 2/6 🎓</h3>
 
 
 
