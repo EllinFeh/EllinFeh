@@ -27,6 +27,6 @@
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellinfeh&show_icons=true&locale=en&layout=compact&theme=outrun" alt="ellinfeh" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellinfeh&show_icons=true&locale=en&layout=compact&theme=outrun" alt="ellinfeh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellinfeh&show_icons=true&locale=en&theme=outrun" alt="ellinfeh" /></p>
