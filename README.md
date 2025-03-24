@@ -1,5 +1,6 @@
 <h1 align="center">Seja bem vindo ao meu perfil!</h1>
 <h3 align="center"> TSI | Tecnologia em sistemas para internet 3/6 🎓</h3>
+<h3 align="center"> Estagiário em Desenvolvimento Front-end </h3>
 
 
 
@@ -7,7 +8,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/elison-felipe-72a6a7261/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elison felipe" height="30" width="40" /></a>
 <a href="https://instagram.com/sant.ell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sant.ell" height="30" width="40" /></a>
-<a href="https://github.com/EllinFeh/Projeto-Cyberquest" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" height="30" width="40"
 ></a>
 </p>
 
