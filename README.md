@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Elison Felipe!</h1>
-<h3 align="center">🎓 Estudante de TSI (3/6) | 💻 Estagiário Front-end</h3>
+<h3 align="center">Desenvolvedor Fullstack</h3>
 
 <h3 align="left">👨‍💻 Sobre mim</h3>
 <p align="left">Sou apaixonado por desenvolvimento web e estou sempre em busca de aprender novas tecnologias. Atualmente atuo como estagiário front-end, focando em React, e boas práticas de UI/UX, Além de ter um bom conhecimento em Python.</p>
